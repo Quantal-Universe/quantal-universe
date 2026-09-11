@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Use the raw GitHub user content URL so the image renders properly on the README -->
-  <img src="https://raw.githubusercontent.com/Quantal-Universe/quantal-universe/main/Logos_and_Banners/quantal-universe-banner.png" alt="Quantal Labs Logo" width="160" height="160" />
+  <img src="https://raw.githubusercontent.com/Quantal-Universe/quantal-universe/main/Logos_and_Banners/quantal-universe-banner.png" alt="Quantal Labs Logo" width="180" height="160" />
 
   # Quantal Labs
   ### *Custom-Engineered Hardware & Software Architectures*
