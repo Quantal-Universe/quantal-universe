@@ -2,7 +2,7 @@
   <!-- Use the raw GitHub user content URL so the image renders properly on the README -->
   <img src="https://raw.githubusercontent.com/Quantal-Universe/quantal-universe/main/Logos_and_Banners/quantal-universe-banner.png" alt="Quantal Labs Logo" width="180" height="160" />
 
-  # Quantal Labs
+  # Quantal Universe (Labs)
   ### *Custom-Engineered Hardware & Software Architectures*
 
   [![GitHub Matrix](https://img.shields.io/badge/Ecosystem-Unified_SSO-00ffcc?style=for-the-badge)](https://quantal-labs.com)
